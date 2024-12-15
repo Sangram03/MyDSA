@@ -1,6 +1,9 @@
 ### 1. Prefix Sum
 
 
+![image](https://github.com/user-attachments/assets/fdeb2d5f-bedd-4c9b-997d-20449b54ba9a)
+
+
 ### Given an array nums, answer multiple queries about the sum of elements within a specific range [i, j].
 
 
